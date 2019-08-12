@@ -1,0 +1,86 @@
+
+# Simple Linear Regression
+
+```{r}
+library(caTools)
+library(ggplot2)
+```
+
+
+```{r}
+# Importing the dataset
+dataset = read.csv('Salary_Data.csv')
+head(dataset)
+```
+
+```{r}
+# Splitting the dataset into the Training set and Test set
+set.seed(123)
+split = sample.split(dataset$Salary, SplitRatio = 2/3)
+training_set = subset(dataset, split == TRUE)
+test_set = subset(dataset, split == FALSE)
+```
+
+
+```{r}
+# Fitting Simple Linear Regression to the Training set
+regressor = lm(formula = Salary ~ YearsExperience, data = training_set)
+# to get details of regressor
+summary(regressor)
+```
+
+```
+Coefficients:
+                Estimate Std. Error t value Pr(>|t|)    
+(Intercept)        25592       2646   9.672 1.49e-08 ***
+YearsExperience     9365        421  22.245 1.52e-14 ***
+```
+Here 3 star means it is highly statistically significant.  And no star means that 
+it is not statistically significant.
+
+__Statistical significance__ is the likelihood that a relationship between two 
+or more variables is caused by something other than chance. Statistical 
+hypothesis testing is used to determine whether the result of a data set is 
+statistically significant. This test provides a p-value, representing the 
+probability that random chance could explain the result. In general, a p-value
+of 5% or lower is considered to be statistically significant.
+
+#### Predicting the Test set results
+
+```{r}
+y_pred = predict(regressor, newdata = test_set)
+y_pred
+```
+
+#### Visualising the Training set results
+
+```{r}
+ggplot() +
+  geom_point(aes(x = training_set$YearsExperience, y = training_set$Salary, color = 'blue')) + 
+  geom_line(aes(x = training_set$YearsExperience, y = predict(regressor, newdata = training_set), color = 'red')) +
+  ggtitle('Salary vs Experience (Training set)') +
+  xlab('Years of experience') +
+  ylab('Salary')
+```
+
+
+#### Visualising the test set results
+
+```{r}
+ggplot() +
+  geom_point(aes(x = test_set$YearsExperience, y = test_set$Salary, color = 'blue')) + 
+  geom_line(aes(x = training_set$YearsExperience, y = predict(regressor, newdata = training_set), color = 'red')) +
+  ggtitle('Salary vs Experience (Test set)') +
+  xlab('Years of experience') +
+  ylab('Salary')
+```
+
+
+
+
+
+
+
+
+
+
