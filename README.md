@@ -12,7 +12,10 @@ This repository contains notes and assignments of this course.
 - [Simple Linear Regression](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/2.Regression/4.%20Simple%20Linear%20Regression/simple_linear_regression.ipynb)
 - [Simple Linear Regression - Notes-2](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/2.Regression/4.%20Simple%20Linear%20Regression/Simple_Linear_reg-Notes-2.ipynb)
 - [Multiple Linear Regression-1](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/2.Regression/5.Multiple%20Linear%20Regression/2.%20Multiple%20regression.ipynb)
-- [Multiple Linear Regression-2](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/2.Regression/5.Multiple%20Linear%20Regression/1.%20Building%20a%20model%20%28step%20by%20step%29.ipynb)
+	Topics covered: Creating dummy variables, Dummy Variable Trap, P-value in regression analysis and coefficients
+- [Assumptions for multi linear regression]()
+- [Multiple Linear Regression-2: 5 methods of building a model](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/2.Regression/5.Multiple%20Linear%20Regression/1.%20Building%20a%20model%20%28step%20by%20step%29.ipynb)
+
  
 
  
