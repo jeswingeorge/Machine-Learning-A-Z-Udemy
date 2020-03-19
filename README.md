@@ -4,6 +4,7 @@ This repository contains notes and assignments of this course.
 
 ## 1. Data pre-processing
 - [Data-preprocessing - Using sklearn and tutorials](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/1.Data%20Preprocessing/Data-preprocessing%20-%20Using%20sklearn%20and%20tutorials.ipynb)
+- [Using sklearn's ColumnTransformer for Numerical and Categorical Data in Python]()
 - [Data-preprocessing - Using Pandas and my trials](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/1.Data%20Preprocessing/Data-preprocessing%20-%20Using%20Pandas%20and%20my%20trials.ipynb)
 
 ## 2. Regression
