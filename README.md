@@ -21,16 +21,16 @@ This repository contains notes and assignments of this course.
 - [Simple Linear Regression](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/2.Regression/4.%20Simple%20Linear%20Regression/simple_linear_regression.ipynb)  
   Topics covered: Simple linear regression Introduction
 - [Simple Linear Regression - Notes-2](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/2.Regression/4.%20Simple%20Linear%20Regression/Simple_Linear_reg-Notes-2.ipynb)  
- Topics covered: Assumptions of Linear Regression and their validation, Coefficient of determination $R^2$ and adjusted $R^2$.
+ Topics covered: Assumptions of Linear Regression and their validation, Coefficient of determination $R^{2}$ and adjusted $R^{2}$.
 - [Multiple Linear Regression-1](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/2.Regression/5.Multiple%20Linear%20Regression/2.%20Multiple%20regression.ipynb)  
 	Topics covered: Creating dummy variables, Dummy Variable Trap, P-value in regression analysis and coefficients
 - [Multiple Linear Regression-2: 5 methods of building a model](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/2.Regression/5.Multiple%20Linear%20Regression/1.%20Building%20a%20model%20%28step%20by%20step%29.ipynb)  
  Topics covered: All-in, Backward Elimination, Forward selection, Bidirectional Elimination, Score comparison/All possible models
- - [Polynomial regression](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/2.Regression/6.%20Polynomial%20Regression/polynomial_regression.ipynb)  
-  Topics covered - why polynomial regression is called linear
 - [Multiple linear regression implementation with backward elimination](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/2.Regression/5.Multiple%20Linear%20Regression/3.multi_linear_reg_backward_elimination.ipynb)
-- [Implementing Polynomial regression in Python]()
+- [Polynomial regression](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/2.Regression/6.%20Polynomial%20Regression/polynomial_regression.ipynb)  
+  Topics covered - why polynomial regression is called linear, Implementing Polynomial regression
+- [Support Vector Regression (SVR)]()
 
- 
+
 
  
