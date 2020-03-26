@@ -29,8 +29,9 @@ This repository contains notes and assignments of this course.
 - [Multiple linear regression implementation with backward elimination](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/2.Regression/5.Multiple%20Linear%20Regression/3.multi_linear_reg_backward_elimination.ipynb)
 - [Polynomial regression](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/2.Regression/6.%20Polynomial%20Regression/polynomial_regression.ipynb)  
   Topics covered - why polynomial regression is called linear, Implementing Polynomial regression
-- [Support Vector Regression (SVR)]()
-
+- [Support Vector Regression (SVR)](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/2.Regression/7.Support%20Vector%20Regression%20%28SVR%29/support_vector_regression.ipynb)
+- [Decision Tree Regression]()
+- [Random Forest Regression]()
 
 
  
