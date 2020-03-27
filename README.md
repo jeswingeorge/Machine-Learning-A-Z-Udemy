@@ -32,10 +32,11 @@ This repository contains notes and assignments of this course.
 - [Support Vector Regression(SVR)](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/2.Regression/7.Support%20Vector%20Regression%20SVR/support_vector_regression.ipynb)
 - [Decision Tree Regression](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/2.Regression/8.%20Decision%20Tree%20Regression/decision_trees.ipynb)
 - [Random Forest Regression](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/2.Regression/9.Random%20Forest%20Regression/random_forest_regression.ipynb)
-- [Evaluating regression models performance]()
+- [Evaluating regression models performance](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/2.Regression/10.Evaluating%20Regression%20Models%20Performance/regression_evaluation_methods.ipynb)
   Topics covered:
-  	1. R-squared
+  	1. R-squared, Adjusted R-sq
   	2. Reference material IMP: Why using residual plots is important even when value of R-squared is high/low?
+    3. MSE, RMSE,MAPE, MAE
 
 
 
