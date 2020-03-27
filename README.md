@@ -29,9 +29,14 @@ This repository contains notes and assignments of this course.
 - [Multiple linear regression implementation with backward elimination](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/2.Regression/5.Multiple%20Linear%20Regression/3.multi_linear_reg_backward_elimination.ipynb)
 - [Polynomial regression](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/2.Regression/6.%20Polynomial%20Regression/polynomial_regression.ipynb)  
   Topics covered - why polynomial regression is called linear, Implementing Polynomial regression
-- [Support Vector Regression (SVR)](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/2.Regression/7.Support%20Vector%20Regression%20%28SVR%29/support_vector_regression.ipynb)
-- [Decision Tree Regression]()
-- [Random Forest Regression]()
+- [Support Vector Regression(SVR)](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/2.Regression/7.Support%20Vector%20Regression%20SVR/support_vector_regression.ipynb)
+- [Decision Tree Regression](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/2.Regression/8.%20Decision%20Tree%20Regression/decision_trees.ipynb)
+- [Random Forest Regression](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/2.Regression/9.Random%20Forest%20Regression/random_forest_regression.ipynb)
+- [Evaluating regression models performance]()
+  Topics covered:
+  	1. R-squared
+  	2. Reference material IMP: Why using residual plots is important even when value of R-squared is high/low?
+
 
 
  
