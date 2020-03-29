@@ -1,5 +1,5 @@
 # [Udemy Machine Learning A-Z course](https://www.udemy.com/machinelearning/)
-[Download datasets for this course from website](www.superdatascience.com/pages/machine-learning)
+[Download datasets for this course from website](https://www.superdatascience.com/pages/machine-learning)
 
 This repository contains notes and assignments of this course.
 
@@ -37,7 +37,10 @@ This repository contains notes and assignments of this course.
   	1. R-squared, Adjusted R-sq
   	2. Reference material IMP: Why using residual plots is important even when value of R-squared is high/low?
     3. MSE, RMSE,MAPE, MAE
+- []()
 
+## Model Selection
 
-
+- [1.K-Fold cross validation]()
  
+-  [2.Grid Search]()
