@@ -9,7 +9,9 @@ This repository contains notes and assignments of this course.
   Topics covered: Missing data, Categorical data, Feature scaling, Splitting data into train and test set
 
 - [Using sklearn's ColumnTransformer for Numerical and Categorical Data in Python](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/1.Data%20Preprocessing/3.Use%20ColumnTransformer%20in%20SciKit%20instead%20of%20LabelEncoding%20and%20OneHotEncoding%20in%20ML.ipynb)  
-  Topics covered: Using Column Transformer function on ultiple libraries
+  Topics covered: Using Column Transformer function 
+
+- [Encoding categorical data]()
 
 - [Data-preprocessing - Using Pandas and my trials](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/1.Data%20Preprocessing/Data-preprocessing%20-%20Using%20Pandas%20and%20my%20trials.ipynb)  
   Topics covered: Using pandas for Missing data, Categorical data
@@ -37,10 +39,11 @@ This repository contains notes and assignments of this course.
   	1. R-squared, Adjusted R-sq
   	2. Reference material IMP: Why using residual plots is important even when value of R-squared is high/low?
     3. MSE, RMSE,MAPE, MAE
-- []()
+- [Measures of spread - Skewness and Kurtosis](https://nbviewer.jupyter.org/github/jeswingeorge/Python-DS-notes/blob/master/Statistics/1.measures_of_shape.ipynb)
 
 ## Model Selection
 
-- [1.K-Fold cross validation]()
+- [1.K-Fold cross validation](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/11.Model-Selection/k-fold_cross_validation.ipynb)
  
--  [2.Grid Search]()
+-  [2.Grid Search](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/11.Model-Selection/grid-search-cv.ipynb)
+
