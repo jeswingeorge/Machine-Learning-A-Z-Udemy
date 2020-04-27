@@ -45,6 +45,11 @@ This repository contains notes and assignments of this course.
 ## Model Selection
 
 - [1.K-Fold cross validation](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/11.Model-Selection/k-fold_cross_validation.ipynb)
+	- Parameter and a Hyperparameter
+	- k-Fold cross validation
+	- Bias Variance Trade-off
+	- Bulls eye diagram
+	- 5 reasons for using cross-validation
  
 -  [2.Grid Search](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/11.Model-Selection/grid-search-cv.ipynb)
 
