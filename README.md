@@ -15,7 +15,9 @@ This repository contains notes and assignments of this course.
 
 - [Data-preprocessing - Using Pandas and my trials](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/1.Data%20Preprocessing/Data-preprocessing%20-%20Using%20Pandas%20and%20my%20trials.ipynb)  
   Topics covered: Using pandas for Missing data, Categorical data
-
+  
+- [Transforming data for normality]()  
+Topics covered: Box-cox transform
 
 ## 2. Regression
 - [Regression Introduction](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/2.Regression/3.Intro/Regression%20Intro.ipynb)  
@@ -35,6 +37,7 @@ This repository contains notes and assignments of this course.
 - [Support Vector Regression(SVR)](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/2.Regression/7.Support%20Vector%20Regression%20SVR/support_vector_regression.ipynb)
 - [Decision Tree Regression](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/2.Regression/8.%20Decision%20Tree%20Regression/decision_trees.ipynb)
 - [Random Forest Regression](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/2.Regression/9.Random%20Forest%20Regression/random_forest_regression.ipynb)
+- [Ridge, Lasso and Elastic-net regression](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/2.Regression/10.Ridge%2Classo_elastic_regression.ipynb)
 - [Evaluating regression models performance](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/2.Regression/10.Evaluating%20Regression%20Models%20Performance/regression_evaluation_methods.ipynb)
   Topics covered:
   	1. R-squared, Adjusted R-sq
