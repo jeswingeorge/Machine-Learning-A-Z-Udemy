@@ -16,7 +16,7 @@ This repository contains notes and assignments of this course.
 - [Data-preprocessing - Using Pandas and my trials](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/1.Data%20Preprocessing/Data-preprocessing%20-%20Using%20Pandas%20and%20my%20trials.ipynb)  
   Topics covered: Using pandas for Missing data, Categorical data
   
-- [Transforming data for normality]()  
+- [Transforming data for normality](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/1.Data%20Preprocessing/5.Transforming-data-for-normality.ipynb)  
 Topics covered: Box-cox transform
 
 ## 2. Regression
