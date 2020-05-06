@@ -19,13 +19,16 @@ This repository contains notes and assignments of this course.
 - [Transforming data for normality](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/1.Data%20Preprocessing/5.Transforming-data-for-normality.ipynb)  
 Topics covered: Box-cox transform
 
+- [Dealing with Multicolinearity]()
+ 
+
 ## 2. Regression
 - [Regression Introduction](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/2.Regression/3.Intro/Regression%20Intro.ipynb)  
   Topics covered: Regression definition and types
 - [Simple Linear Regression](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/2.Regression/4.%20Simple%20Linear%20Regression/simple_linear_regression.ipynb)  
   Topics covered: Simple linear regression Introduction
 - [Simple Linear Regression - Notes-2](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/2.Regression/4.%20Simple%20Linear%20Regression/Simple_Linear_reg-Notes-2.ipynb)  
- Topics covered: Assumptions of Linear Regression and their validation, Coefficient of determination $R^{2}$ and adjusted $R^{2}$.
+ Topics covered: Assumptions of Linear Regression and their validation, Coefficient of determination $R^{2}$ and adjusted $R^{2}$.OLS function, Finding adj Rsq and Rsq fron the OLS mdoels.
 - [Multiple Linear Regression-1](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/2.Regression/5.Multiple%20Linear%20Regression/2.%20Multiple%20regression.ipynb)  
 	Topics covered: Creating dummy variables, Dummy Variable Trap, P-value in regression analysis and coefficients
 - [Multiple Linear Regression-2: 5 methods of building a model](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/2.Regression/5.Multiple%20Linear%20Regression/1.%20Building%20a%20model%20%28step%20by%20step%29.ipynb)  
