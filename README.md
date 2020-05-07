@@ -4,7 +4,7 @@
 This repository contains notes and assignments of this course.
 
 
-## 1. Data pre-processing
+## 1. Data pre-processing and Important Concepts
 - [Data-preprocessing - Using sklearn and tutorials](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/1.Data%20Preprocessing/Data-preprocessing%20-%20Using%20sklearn%20and%20tutorials.ipynb)  
   Topics covered: Missing data, Categorical data, Feature scaling, Splitting data into train and test set
 
@@ -19,7 +19,11 @@ This repository contains notes and assignments of this course.
 - [Transforming data for normality](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/1.Data%20Preprocessing/5.Transforming-data-for-normality.ipynb)  
 Topics covered: Box-cox transform
 
-- [Dealing with Multicolinearity]()
+- [Dealing with Multicolinearity](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/1.Data%20Preprocessing/6.dealing_with_multicolinearity.ipynb)  
+Topics covered: Identifying multiclinearity, Variance Inflation factor (VIF)
+
+- [Dimensionality Reduction (PCA)]()  
+Topics covered: Principal component Analysis 
  
 
 ## 2. Regression
