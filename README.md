@@ -19,10 +19,13 @@ This repository contains notes and assignments of this course.
 - [Transforming data for normality](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/1.Data%20Preprocessing/5.Transforming-data-for-normality.ipynb)  
 Topics covered: Box-cox transform
 
+- __Notes on association analysis__:   
+    Topics covered: Covariance, Correlation and their types, Association between categorical variables - Chi-squared test, Association between two binary variables- Phi-coefficient, Association between 2 nominal variables - Crammers' V, Theil’s U, The Simpson Paradox, Market Basket Analysis - Apriori Algorithm.
+
 - [Dealing with Multicolinearity](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/1.Data%20Preprocessing/6.dealing_with_multicolinearity.ipynb)  
 Topics covered: Identifying multiclinearity, Variance Inflation factor (VIF)
 
-- [Dimensionality Reduction (PCA)]()  
+- [Dimensionality Reduction (PCA)](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/1.Data%20Preprocessing/7.Principal-Component-Analysis-%28PCA%29.ipynb)  
 Topics covered: Principal component Analysis 
  
 
@@ -45,7 +48,7 @@ Topics covered: Principal component Analysis
 - [Decision Tree Regression](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/2.Regression/8.%20Decision%20Tree%20Regression/decision_trees.ipynb)
 - [Random Forest Regression](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/2.Regression/9.Random%20Forest%20Regression/random_forest_regression.ipynb)
 - [Ridge, Lasso and Elastic-net regression](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/2.Regression/10.Ridge%2Classo_elastic_regression.ipynb)
-- [Evaluating regression models performance](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/2.Regression/10.Evaluating%20Regression%20Models%20Performance/regression_evaluation_methods.ipynb)
+- [Evaluating regression models performance](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/2.Regression/10.Evaluating%20Regression%20Models%20Performance/regression_evaluation_methods.ipynb)  
   Topics covered:
   	1. R-squared, Adjusted R-sq
   	2. Reference material IMP: Why using residual plots is important even when value of R-squared is high/low?
@@ -62,4 +65,13 @@ Topics covered: Principal component Analysis
 	- 5 reasons for using cross-validation
  
 -  [2.Grid Search](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/11.Model-Selection/grid-search-cv.ipynb)
+
+
+## Gradient Boosting
+
+- [Gradient Boosting Introduction](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/12.%20Gradient%20Boosting/1.Gradient%20Boost%20-%20Intro.ipynb)
+- [Math behind gradient boosting](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/12.%20Gradient%20Boosting/2.%20Math%20behind%20XGBoost.ipynb)
+- [Implementing Gradient Boosting Python](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/12.%20Gradient%20Boosting/3.Implementing_XGBoost_Python.ipynb)
+
+
 
