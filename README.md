@@ -27,6 +27,8 @@ Topics covered: Identifying multiclinearity, Variance Inflation factor (VIF)
 
 - [Dimensionality Reduction (PCA)](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/1.Data%20Preprocessing/7.Principal-Component-Analysis-%28PCA%29.ipynb)  
 Topics covered: Principal component Analysis 
+
+- [Feature Selection using SelectKBest & Recursive Feature Elimination]()
  
 
 ## 2. Regression
@@ -54,6 +56,12 @@ Topics covered: Principal component Analysis
   	2. Reference material IMP: Why using residual plots is important even when value of R-squared is high/low?
     3. MSE, RMSE,MAPE, MAE
 - [Measures of spread - Skewness and Kurtosis](https://nbviewer.jupyter.org/github/jeswingeorge/Python-DS-notes/blob/master/Statistics/1.measures_of_shape.ipynb)
+
+
+## Feature Selection
+
+
+
 
 ## Model Selection
 
