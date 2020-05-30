@@ -28,7 +28,7 @@ Topics covered: Identifying multiclinearity, Variance Inflation factor (VIF)
 - [Dimensionality Reduction (PCA)](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/1.Data%20Preprocessing/7.Principal-Component-Analysis-%28PCA%29.ipynb)  
 Topics covered: Principal component Analysis 
 
-- [Feature Selection using SelectKBest & Recursive Feature Elimination]()
+- [Feature Selection using SelectKBest & Recursive Feature Elimination](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/1.Data%20Preprocessing/9.Feature%20Selection%20using%20SelectKBest%20%26%20Recursive%20Feature%20Elimination.ipynb)
  
 
 ## 2. Regression
@@ -73,6 +73,7 @@ Topics covered: Principal component Analysis
 	- 5 reasons for using cross-validation
  
 -  [2.Grid Search](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/11.Model-Selection/grid-search-cv.ipynb)
+- [3. GridSearch vs RamdomizedSearch]()
 
 
 ## Gradient Boosting
