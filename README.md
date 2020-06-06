@@ -59,7 +59,7 @@ Topics covered: Principal component Analysis
 
 ## Feature Selection
 
-- [Choosing a Feature Selection Method For ML]()
+- [Choosing a Feature Selection Method For ML](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/1.Data%20Preprocessing/10.Feature_selection.ipynb)
 
 - [Feature Selection using SelectKBest & Recursive Feature Elimination](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/1.Data%20Preprocessing/9.Feature%20Selection%20using%20SelectKBest%20%26%20Recursive%20Feature%20Elimination.ipynb)
  
@@ -67,19 +67,22 @@ Topics covered: Principal component Analysis
 
 ## Model Selection
 
-- [1.K-Fold cross validation](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/11.Model-Selection/k-fold_cross_validation.ipynb)
+- [Cross-validation Introduction]()
+
+- [K-Fold cross validation](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/11.Model-Selection/k-fold_cross_validation.ipynb)
 	- Parameter and a Hyperparameter
 	- k-Fold cross validation
 	- Bias Variance Trade-off
 	- Bulls eye diagram
 	- 5 reasons for using cross-validation
  
--  [2.Grid Search](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/11.Model-Selection/grid-search-cv.ipynb)
-- [3. GridSearch vs RamdomizedSearch](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/11.Model-Selection/Grid-vs-Random-Search-Hyperparameter-tuning.ipynb)
+-  [Grid Search](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/11.Model-Selection/grid-search-cv.ipynb)
+- [GridSearch vs RamdomizedSearch](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/11.Model-Selection/Grid-vs-Random-Search-Hyperparameter-tuning.ipynb)
 
 
-## Gradient Boosting
+## Ensemble Learning
 
+- [Different methods in ensemble learning - AV blog notes](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/13.Ensemble/1.Ensemble%20learning.ipynb)
 - [Gradient Boosting Introduction](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/12.%20Gradient%20Boosting/1.Gradient%20Boost%20-%20Intro.ipynb)
 - [Math behind gradient boosting](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/12.%20Gradient%20Boosting/2.%20Math%20behind%20XGBoost.ipynb)
 - [Implementing Gradient Boosting Python](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/12.%20Gradient%20Boosting/3.Implementing_XGBoost_Python.ipynb)
