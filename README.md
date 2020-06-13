@@ -49,6 +49,7 @@ Topics covered: Principal component Analysis
 - [Decision Tree Regression](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/2.Regression/8.%20Decision%20Tree%20Regression/decision_trees.ipynb)
 - [Random Forest Regression](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/2.Regression/9.Random%20Forest%20Regression/random_forest_regression.ipynb)
 - [Ridge, Lasso and Elastic-net regression](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/2.Regression/10.Ridge%2Classo_elastic_regression.ipynb)
+    Regularization, L1/L2 regularization
 - [Evaluating regression models performance](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/2.Regression/10.Evaluating%20Regression%20Models%20Performance/regression_evaluation_methods.ipynb)  
   Topics covered:
   	1. R-squared, Adjusted R-sq
@@ -67,7 +68,7 @@ Topics covered: Principal component Analysis
 
 ## Model Selection
 
-- [Cross-validation Introduction]()
+- [Cross-validation Introduction](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/11.Model-Selection/cross_validation_data_school.ipynb)
 
 - [K-Fold cross validation](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/11.Model-Selection/k-fold_cross_validation.ipynb)
 	- Parameter and a Hyperparameter
@@ -77,7 +78,9 @@ Topics covered: Principal component Analysis
 	- 5 reasons for using cross-validation
  
 -  [Grid Search](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/11.Model-Selection/grid-search-cv.ipynb)
-- [GridSearch vs RamdomizedSearch](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/11.Model-Selection/Grid-vs-Random-Search-Hyperparameter-tuning.ipynb)
+- [GridSearch vs RandomizedSearch](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/11.Model-Selection/Grid-vs-Random-Search-Hyperparameter-tuning.ipynb)
+
+- [Maths behind RandomizedSearch](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/11.Model-Selection/Randomized_search.ipynb)
 
 
 ## Ensemble Learning
@@ -86,6 +89,8 @@ Topics covered: Principal component Analysis
 - [Gradient Boosting Introduction](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/12.%20Gradient%20Boosting/1.Gradient%20Boost%20-%20Intro.ipynb)
 - [Math behind gradient boosting](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/12.%20Gradient%20Boosting/2.%20Math%20behind%20XGBoost.ipynb)
 - [Implementing Gradient Boosting Python](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/12.%20Gradient%20Boosting/3.Implementing_XGBoost_Python.ipynb)
+- [Catboost Implementation]()
+- [Gradient Boosting Hyperparameter tuning]()
 
 
 
