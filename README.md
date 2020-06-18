@@ -58,6 +58,13 @@ Topics covered: Principal component Analysis
 - [Measures of spread - Skewness and Kurtosis](https://nbviewer.jupyter.org/github/jeswingeorge/Python-DS-notes/blob/master/Statistics/1.measures_of_shape.ipynb)
 
 
+## 3. Classification
+
+- [Logistic Regression - Intro]()
+- [Logistic Regression]()
+- [Confusion Matrix]()
+    Confusion matrix, accuracy, recall, precision and F-measure.
+
 ## Feature Selection
 
 - [Choosing a Feature Selection Method For ML](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/1.Data%20Preprocessing/10.Feature_selection.ipynb)
