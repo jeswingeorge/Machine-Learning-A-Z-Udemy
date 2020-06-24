@@ -60,8 +60,8 @@ Topics covered: Principal component Analysis
 
 ## 3. Classification
 
-- [Logistic Regression - Intro]()
-- [Logistic Regression]()
+- [Logistic Regression - Intro](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/3.Classification/1.Logistic%20Regression/1.Intro_logistic_reg.ipynb)
+- [Logistic Regression](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/3.Classification/1.Logistic%20Regression/2.logistic_regression.ipynb)
 - [Confusion Matrix]()
     Confusion matrix, accuracy, recall, precision and F-measure.
 
@@ -96,8 +96,8 @@ Topics covered: Principal component Analysis
 - [Gradient Boosting Introduction](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/12.%20Gradient%20Boosting/1.Gradient%20Boost%20-%20Intro.ipynb)
 - [Math behind gradient boosting](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/12.%20Gradient%20Boosting/2.%20Math%20behind%20XGBoost.ipynb)
 - [Implementing Gradient Boosting Python](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/12.%20Gradient%20Boosting/3.Implementing_XGBoost_Python.ipynb)
-- [Catboost Implementation]()
-- [Gradient Boosting Hyperparameter tuning]()
+- [Catboost Implementation](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/13.Ensemble/catboost%20implementation.ipynb)
+- [Gradient Boosting Hyperparameter tuning](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/13.Ensemble/Gradient_boosting_hyperparameter_tuning.ipynb)
 
 
 
