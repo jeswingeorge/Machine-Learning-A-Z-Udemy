@@ -62,7 +62,7 @@ Topics covered: Principal component Analysis
 
 - [Logistic Regression - Intro](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/3.Classification/1.Logistic%20Regression/1.Intro_logistic_reg.ipynb)
 - [Logistic Regression](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/3.Classification/1.Logistic%20Regression/2.logistic_regression.ipynb)
-- [Confusion Matrix]()
+- [Confusion Matrix](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/3.Classification/1.Logistic%20Regression/confusion_matrix.ipynb)
     Confusion matrix, accuracy, recall, precision and F-measure.
 
 ## Feature Selection
