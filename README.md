@@ -65,7 +65,16 @@ Topics covered: Principal component Analysis
 - [Confusion Matrix](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/3.Classification/1.Logistic%20Regression/confusion_matrix.ipynb)
     Confusion matrix, accuracy, recall, precision and F-measure.
 - [AUC and ROC](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/3.Classification/1.Logistic%20Regression/AUC%20-%20ROC%20curves.ipynb)
-- [Classification - Imp points to remember]()
+- [Classification - Imp points to remember](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/3.Classification/1.Logistic%20Regression/Important%20points%20to%20remember%20classification.ipynb)
+ Comparing different models using AUC, difference between `model.predict()` and `model.predict_probe()`
+ 
+- [KNN](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/3.Classification/2.%20KNN/k_nearest_neighbors.ipynb)
+- [SVM - intro](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/3.Classification/3.%20SVM/1.svm.ipynb)
+- [SVM Kernels]()
+
+
+- [Decision Tree - Theory](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/3.Classification/4.%20Decision%20Tree/1.%20Decision%20Tree%20-%20Theory.ipynb)
+- [Maths behind Decision Tree splits]()
 
 ## Feature Selection
 
