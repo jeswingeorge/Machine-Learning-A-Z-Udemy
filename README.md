@@ -10,6 +10,8 @@ This repository contains notes and assignments of this course.
 
 - [Using sklearn's ColumnTransformer for Numerical and Categorical Data in Python](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/1.Data%20Preprocessing/3.Use%20ColumnTransformer%20in%20SciKit%20instead%20of%20LabelEncoding%20and%20OneHotEncoding%20in%20ML.ipynb)  
   Topics covered: Using Column Transformer function 
+  
+- [Measures of spread - Skewness and Kurtosis](https://nbviewer.jupyter.org/github/jeswingeorge/Python-DS-notes/blob/master/Statistics/1.measures_of_shape.ipynb)
 
 - [Encoding categorical data - Ordinal and OneHotEncoding with pipeline and column tansformer](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/1.Data%20Preprocessing/4.Encoding_categorical_features.ipynb)
 
@@ -28,9 +30,12 @@ Topics covered: Identifying multiclinearity, Variance Inflation factor (VIF)
 - [Dimensionality Reduction (PCA)](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/1.Data%20Preprocessing/7.Principal-Component-Analysis-%28PCA%29.ipynb)  
 Topics covered: Principal component Analysis 
 
-
+***
 
 ## 2. Regression
+
+### Algorithms
+
 - [Regression Introduction](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/2.Regression/3.Intro/Regression%20Intro.ipynb)  
   Topics covered: Regression definition and types
 - [Simple Linear Regression](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/2.Regression/4.%20Simple%20Linear%20Regression/simple_linear_regression.ipynb)  
@@ -50,31 +55,43 @@ Topics covered: Principal component Analysis
 - [Random Forest Regression](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/2.Regression/9.Random%20Forest%20Regression/random_forest_regression.ipynb)
 - [Ridge, Lasso and Elastic-net regression](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/2.Regression/10.Ridge%2Classo_elastic_regression.ipynb)
     Regularization, L1/L2 regularization
+    
+### Regression evaluation matrix
+
 - [Evaluating regression models performance](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/2.Regression/10.Evaluating%20Regression%20Models%20Performance/regression_evaluation_methods.ipynb)  
   Topics covered:
   	1. R-squared, Adjusted R-sq
   	2. Reference material IMP: Why using residual plots is important even when value of R-squared is high/low?
     3. MSE, RMSE,MAPE, MAE
-- [Measures of spread - Skewness and Kurtosis](https://nbviewer.jupyter.org/github/jeswingeorge/Python-DS-notes/blob/master/Statistics/1.measures_of_shape.ipynb)
 
+***
 
 ## 3. Classification
 
+### Algorithms
+
 - [Logistic Regression - Intro](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/3.Classification/1.Logistic%20Regression/1.Intro_logistic_reg.ipynb)
 - [Logistic Regression](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/3.Classification/1.Logistic%20Regression/2.logistic_regression.ipynb)
-- [Confusion Matrix](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/3.Classification/1.Logistic%20Regression/confusion_matrix.ipynb)
-    Confusion matrix, accuracy, recall, precision and F-measure.
-- [AUC and ROC](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/3.Classification/1.Logistic%20Regression/AUC%20-%20ROC%20curves.ipynb)
 - [Classification - Imp points to remember](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/3.Classification/1.Logistic%20Regression/Important%20points%20to%20remember%20classification.ipynb)
  Comparing different models using AUC, difference between `model.predict()` and `model.predict_probe()`
  
 - [KNN](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/3.Classification/2.%20KNN/k_nearest_neighbors.ipynb)
 - [SVM - intro](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/3.Classification/3.%20SVM/1.svm.ipynb)
-- [SVM Kernels]()
-
-
+- [SVM Kernels](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/3.Classification/3.%20SVM/2.%20Kernel%20SVM.ipynb)
+- [Non-linear SVR](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/3.Classification/3.%20SVM/3.%20Non-Linear%20SVR.ipynb)
+- [SVM Non-linear kernels](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/3.Classification/3.%20SVM/4.%20SVM%20-%20Non-linear%20Kernels.ipynb)
 - [Decision Tree - Theory](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/3.Classification/4.%20Decision%20Tree/1.%20Decision%20Tree%20-%20Theory.ipynb)
-- [Maths behind Decision Tree splits]()
+- [Maths behind Decision Tree splits](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/3.Classification/4.%20Decision%20Tree/Maths%20behind%20DT%20split.ipynb)
+- [DT Python implementation](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/3.Classification/4.%20Decision%20Tree/2.DT%20classification.ipynb)
+- [Random Forest implementation](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/3.Classification/6.%20random%20forest/1.%20Random%20forest%20intuition.ipynb)
+
+### Classification evaluatrion matrix
+
+- [Confusion Matrix](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/3.Classification/1.Logistic%20Regression/confusion_matrix.ipynb)
+    Confusion matrix, accuracy, recall, precision and F-measure.
+- [AUC and ROC](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/3.Classification/1.Logistic%20Regression/AUC%20-%20ROC%20curves.ipynb)
+
+***
 
 ## Feature Selection
 
@@ -82,7 +99,7 @@ Topics covered: Principal component Analysis
 
 - [Feature Selection using SelectKBest & Recursive Feature Elimination](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/1.Data%20Preprocessing/9.Feature%20Selection%20using%20SelectKBest%20%26%20Recursive%20Feature%20Elimination.ipynb)
  
-
+***
 
 ## Model Selection
 
@@ -100,6 +117,7 @@ Topics covered: Principal component Analysis
 
 - [Maths behind RandomizedSearch](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/11.Model-Selection/Randomized_search.ipynb)
 
+***
 
 ## Ensemble Learning
 
@@ -109,6 +127,13 @@ Topics covered: Principal component Analysis
 - [Implementing Gradient Boosting Python](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/12.%20Gradient%20Boosting/3.Implementing_XGBoost_Python.ipynb)
 - [Catboost Implementation](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/13.Ensemble/catboost%20implementation.ipynb)
 - [Gradient Boosting Hyperparameter tuning](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/13.Ensemble/Gradient_boosting_hyperparameter_tuning.ipynb)
+
+***
+
+## Important Q&A
+
+1. [Set-1](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/Imp_Questions/set_1.ipynb)
+2. [Set-2](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/Imp_Questions/set_2.ipynb)
 
 
 
