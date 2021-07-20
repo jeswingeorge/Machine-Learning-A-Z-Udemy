@@ -72,13 +72,12 @@ Topics covered: Principal component Analysis
 
 - [Logistic Regression - Intro](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/3.Classification/1.Logistic%20Regression/1.Intro_logistic_reg.ipynb)
 - [Logistic Regression](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/3.Classification/1.Logistic%20Regression/2.logistic_regression.ipynb)
- 
 - [KNN](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/3.Classification/2.%20KNN/k_nearest_neighbors.ipynb)
 - [SVM - intro](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/3.Classification/3.%20SVM/1.svm.ipynb)
 - [SVM Kernels](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/3.Classification/3.%20SVM/2.%20Kernel%20SVM.ipynb)
 - [Non-linear SVR](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/3.Classification/3.%20SVM/3.%20Non-Linear%20SVR.ipynb)
 - [SVM Non-linear kernels](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/3.Classification/3.%20SVM/4.%20SVM%20-%20Non-linear%20Kernels.ipynb)
-- [Decision Tree - Theory](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/3.Classification/4.%20Decision%20Tree/1.%20Decision%20Tree%20-%20Theory.ipynb)
+- [Decision Tree - Theory](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/3.Classification/4.%20Decision%20Tree/1.%20Decision%20Tree%20-%20Theory%20-%20Intro.ipynb)
 - [Maths behind Decision Tree splits](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/3.Classification/4.%20Decision%20Tree/Maths%20behind%20DT%20split.ipynb)
 - [DT Python implementation](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/3.Classification/4.%20Decision%20Tree/2.DT%20classification.ipynb)
 - [Random Forest implementation](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/3.Classification/6.%20random%20forest/1.%20Random%20forest%20intuition.ipynb)
