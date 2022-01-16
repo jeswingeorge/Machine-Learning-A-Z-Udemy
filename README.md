@@ -97,10 +97,16 @@ Topics covered: Principal component Analysis
 
 ### Algorithms
 
-- [K-means clustering algorithm intro]()
+- [K-means clustering algorithm intro](https://nbviewer.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/4.Clustering/1.Clustering%20intro%20and%20K-means.ipynb)
   K-means clustering intuition
   
-- [K-means: Random Initialization Trap]()
+- [K-means: Random Initialization Trap](https://nbviewer.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/4.Clustering/2.K-means-Random-Initialization-Trap.ipynb)
+
+- [K-Means choosing the right number of clusters](https://nbviewer.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/4.Clustering/3.K-means%20choosing%20the%20right%20number%20of%20clusters.ipynb)
+
+- [K-means Implementation](https://nbviewer.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/4.Clustering/4.K-means%20implementation.ipynb)
+
+- [Hierarchical clustering](https://nbviewer.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/4.Clustering/5.Hierarchical%20clustering.ipynb)
 
 ***
 
