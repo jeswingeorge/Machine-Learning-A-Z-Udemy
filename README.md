@@ -47,7 +47,8 @@ Topics covered: Principal component Analysis
 - [Multiple Linear Regression-2: 5 methods of building a model](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/2.Regression/5.Multiple%20Linear%20Regression/1.%20Building%20a%20model%20%28step%20by%20step%29.ipynb)  
  Topics covered: All-in, Backward Elimination, Forward selection, Bidirectional Elimination, Score comparison/All possible models
 - [Multiple linear regression implementation with backward elimination](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/2.Regression/5.Multiple%20Linear%20Regression/3.multi_linear_reg_backward_elimination.ipynb)
-- [Multiple linear regression - Assumptions]()
+- [Multiple linear regression - Assumptions](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/2.Regression/5.Multiple%20Linear%20Regression/1a._Assumptions_Mutli_Linear_regression.ipynb)  
+  Topics covered: Validating normality, homoscedasticity and independence of residuals, VIF for multicollinearity
 - [Polynomial regression](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/2.Regression/6.%20Polynomial%20Regression/polynomial_regression.ipynb)  
   Topics covered - why polynomial regression is called linear, Implementing Polynomial regression
 - [Support Vector Regression(SVR)](https://nbviewer.jupyter.org/github/jeswingeorge/Machine-Learning-A-Z-Udemy/blob/master/2.Regression/7.Support%20Vector%20Regression%20SVR/support_vector_regression.ipynb)
