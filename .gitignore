@@ -1,4 +1,5 @@
-.ipynb_checkpoints,
-.Rhistory,
+.ipynb_checkpoints
+.Rhistory
 Assessingtheregressionmodel.ipynb
 templates.zip
+.venv/
